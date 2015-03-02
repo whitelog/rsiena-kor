@@ -1,1 +1,4 @@
-이 문서는 RSiena 프로젝트의 공식 매뉴얼을 한글화화기 위한 시험 문서입니다.
+# 이 문서는 RSiena 프로젝트의 공식 매뉴얼을 한글화 하기 위한 문서입니다.
+# 이 문서에 해당하는 원문은 RSiena Literature(http://www.stats.ox.ac.uk/~snijders/siena/siena_articles.htm)에서 구할 수 
+# 있으며 해당 문서의 버전은 4.0(February 17, 2015)입니다.
+# 
