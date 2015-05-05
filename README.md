@@ -4,3 +4,5 @@ of networks and behavior, 그리고 Cross-sectional network data를 활용한 �
 Siena Project에 관한 더 자세한 내용은 다음의 홈페이지를 참고하시기 바랍니다.
 
 https://www.stats.ox.ac.uk/~snijders/siena/
+
+gitbook address: https://www.gitbook.com/book/whitelog/rsiena-kor/
