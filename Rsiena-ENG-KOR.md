@@ -1,37 +1,51 @@
-Manual for RSiena
+# Manual for RSiena
 Ruth M. Ripley Tom A.B. Snijders Zso ́fia Boda Andra ́s Vo ̈r ̈os Paulina Preciado
 University of Oxford: Department of Statistics; Nuffield College February 17, 2015
-RSiena 메뉴얼
+
+# RSiena 메뉴얼
+
 Ruth M. Ripley Tom A.B. Snijders Zso ́fia Boda Andra ́s Vo ̈r ̈os Paulina Preciado
+
 옥스포드 유니버시티: 통계학과 누필드 칼리지 2월 17일, 2015년 버전
 
-Abstract
-초록
+# Abstract
+# 초록
+
 SIENA (for Simulation Investigation for Empirical Network Analysis) is a computer pro- gram that carries out the statistical estimation of models for the evolution of social networks according to the dynamic actor-oriented model of Snijders (2001, 2005), Snijders et al. (2007), and Snijders et al. (2010a). 
+
 SIENA (경험적 네트워크 분석을 위한 시뮬레이션 분석) 는 Snijders (2001, 2005), Snijders et al. (2007), and Snijders et al. (2010a)의 연구결과인 역동적 행위자기반 모델을 통해 사회연결망의 진화를 통계적 추론을 수행하는 프로그램이다.
 
 This is the manual for RSiena, a contributed package to the statistical system R. 
+
 이 문서는 통계시스템인 R에서 사용하는 RSiena 패키지를 위한 메뉴얼이다.
 
 It complements, but does not replace the help pages for the RSiena functions! It also contains contributions written earlier, for the manual for SIENA version 3, by Mark Huisman, Michael Schweinberger, and Christian Steglich.
+
 이 메뉴얼은 권장되나 RSiena기능 도움페이지를 대체하는것은 아니다. 이 문서에는 Mark Huisman, Michael Schweinberger, and Christian Steglich 가 기여한 초기 SIENA 버전3의 내용을 포함한다.
 
 This manual is frequently updated, mostly only in a minor way. This version was renewed for RSiena version 1.1-283.
+
 이 메뉴얼은 수시로 업데이트 되며 수시업데이트는 주로 마이너 업데이트가 주를 이룬다. 이 메뉴얼은 RSiena 버전 1.1-283을 기반으로 작성되었다.
 
-Contents
+# Contents
+
 목차
+
 	•	General information 6 
 	•	일반정보
 
 Part I. Introduction 8
+
 파트1. 소개
+
 	•	1. Minimal Intro
 	•	1. 소개
 	⁃	1.1 Giving references..................................... 8
 	⁃	1.1 참조문서와 항목들
+
 	•	2. Getting started with SIENA 9
 	•	2. SIENA 시작하기
+
 	⁃	2.1 The logic of Stochastic Actor-Oriented Models .................... 9
 	⁃	확률적 행위자 기반 모델의 로직
 	⁃	2.1.1 Types of Stochastic Actor-Oriented Models . . . . . . . . . . . . . . . . . . 10
